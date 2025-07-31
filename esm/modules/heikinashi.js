@@ -1,5 +1,5 @@
 /**
- * Highstock JS v12.3.0 (2025-06-21)
+ * Highstock JS v12.3.0-modified (2025-07-31)
  * @module highcharts/modules/heikinashi
  * @requires highcharts
  * @requires highcharts/modules/stock
